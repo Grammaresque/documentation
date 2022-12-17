@@ -6,7 +6,7 @@ title: Home
 
 ## Welcome!
 
-You've found us! Welcome to the documentation hub for Rocky Linux; we're glad you're here. We have a number of contributors adding content, and that cache of content is growing all the time. Here you will find documents on how to build Rocky Linux itself, as well as documents on various subjects that are important to the Rocky Linux community. Who makes up that community you ask?
+You've found us! Welcome to the Documentation hub for Rocky Linux; we're glad you're here. We have a number of contributors adding content, and that cache of content is growing all the time. Here you will find documents on how to build Rocky Linux itself, as well as documents on various subjects that are important to the Rocky Linux community. Who makes up that community you ask?
 
 Well actually, you do.
 
